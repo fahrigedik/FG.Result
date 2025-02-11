@@ -17,6 +17,10 @@
 		<PackageTags>response, result, api, wrapper, status-code, error-handling</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageIcon>icon.png</PackageIcon>
-		<None Include="icon.png" Pack="true" PackagePath="\"/>
 	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="icon.png" Pack="true" PackagePath=""/>
+	</ItemGroup>
+
 </Project>
