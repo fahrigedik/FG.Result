@@ -6,7 +6,7 @@
 		<Nullable>enable</Nullable>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageId>FG.Result</PackageId>
-		<Version>1.0.0</Version>
+		<Version>8.0.0</Version>
 		<Authors>Fahri Gedik</Authors>
 		<Company></Company>
 		<Description>A generic response wrapper for APIs, providing consistent structure for success and failure responses, including error handling and HTTP status codes.</Description>
