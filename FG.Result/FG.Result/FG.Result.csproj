@@ -6,13 +6,13 @@
 		<Nullable>enable</Nullable>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageId>FG.Result</PackageId>
-		<Version>8.0.1</Version>
+		<Version>8.0.2</Version>
 		<Authors>Fahri Gedik</Authors>
 		<Company></Company>
 		<Description>A generic response wrapper for APIs, providing consistent structure for success and failure responses, including error handling and HTTP status codes.</Description>
-		<Copyright>Copyright © 2025 Fahri GEdik</Copyright>
-		<PackageProjectUrl>https://github.com/kullaniciadiniz/TS.Result</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/kullaniciadiniz/TS.Result.git</RepositoryUrl>
+		<Copyright>Copyright © 2025 Fahri Gedik</Copyright>
+		<PackageProjectUrl>https://github.com/fahrigedik/FG.Result</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/fahrigedik/FG.Result.git</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>response, result, api, wrapper, status-code, error-handling</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
